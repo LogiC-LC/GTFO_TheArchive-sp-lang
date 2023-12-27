@@ -12,9 +12,11 @@ using TheArchive.Utilities;
 
 namespace TheArchive.Features.Security
 {
+/*
 #if BepInEx
     [ForceDisable] // LoaderWrapper.NativeHookAttach isn't implemented for BIE yet
 #endif
+*/
     [EnableFeatureByDefault]
     [RundownConstraint(Utils.RundownFlags.RundownSix, Utils.RundownFlags.Latest)]
     public class AntiSpawn : Feature
@@ -49,6 +51,55 @@ namespace TheArchive.Features.Security
                 KickAndBan
             }
         }
+
+        [ArchivePatch(typeof(SNet_Replication), nameof(SNet_Replication.RegisterReplicationManager))]
+        private class SNet_Replication__RegisterReplicationManager__Patch
+        {
+            private static void Postfix(ref SNet_ReplicationManager manager)
+            {
+                var instance1 = manager.TryCast<SNet_ReplicationManager<pEnemyGroupSpawnData, SNet_DynamicReplicator<pEnemyGroupSpawnData>>>();
+                if (instance1 != null)
+                {
+                    Il2CppSystem.Action<pEnemyGroupSpawnData> _original1 = instance1.m_spawnRequestPacket.ReceiveAction;
+                    Action<pEnemyGroupSpawnData> detour1 = delegate (pEnemyGroupSpawnData data)
+                    {
+                        if (SNet.IsMaster)
+                        {
+                            if (SNet.Replication.TryGetLastSender(out var player))
+                            {
+                                PunishPlayer(player);
+                            }
+                            return;
+                        }
+                        _original1?.Invoke(data);
+                    };
+                    instance1.m_spawnRequestPacket.ReceiveAction = detour1;
+                    return;
+                }
+
+                var instance2 = manager.TryCast<EnemyAllocator.EnemyReplicationManager>();
+                if (instance2 != null)
+                {
+                    Il2CppSystem.Action<pEnemySpawnData> _original2 = instance2.m_spawnRequestPacket.ReceiveAction;
+                    Action<pEnemySpawnData> detour2 = delegate (pEnemySpawnData data)
+                    {
+                        if (SNet.IsMaster)
+                        {
+                            if (SNet.Replication.TryGetLastSender(out var player))
+                            {
+                                PunishPlayer(player);
+                            }
+                            return;
+                        }
+                        _original2?.Invoke(data);
+                    };
+                    instance2.m_spawnRequestPacket.ReceiveAction = detour2;
+                    return;
+                }
+            }
+        }
+
+#if false
 
         public override void OnEnable()
         {
@@ -175,6 +226,8 @@ namespace TheArchive.Features.Security
 
             _originalMethod_InternalSpawnCallback.Invoke(type, self, spawnData);
         }
+
+#endif
 
         public static bool PunishPlayer(SNet_Player player)
         {
