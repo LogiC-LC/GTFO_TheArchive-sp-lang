@@ -30,7 +30,7 @@
     },
     "TheArchive.Features.QoL.SortBoosters.Description": {
       "FSDisplayName": {
-        "English": "Sorts your booster inventory by type and alphabetically",
+        "English": null,
         "French": null,
         "Italian": null,
         "German": null,
@@ -40,7 +40,7 @@
         "Polish": null,
         "Japanese": null,
         "Korean": null,
-        "Chinese": "按类型和字母顺序排序你的强化剂库存"
+        "Chinese": null
       },
       "FSDescription": {
         "English": "Sorts your booster inventory by type and alphabetically",
@@ -57,5 +57,6 @@
       }
     }
   },
+  "FeatureSettingsEnumTexts": {},
   "ExtraTexts": []
 }
