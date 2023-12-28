@@ -113,5 +113,130 @@
       }
     }
   },
+  "FeatureSettingsEnumTexts": {
+    "TheArchive.Features.QoL.SituationalAwareWeaponSwitch+SituationalAwareWeaponSwitchSettings+DramaState": {
+      "English": {
+        "ElevatorIdle": null,
+        "ElevatorGoingDown": null,
+        "Exploration": null,
+        "Alert": null,
+        "Sneaking": null,
+        "Encounter": null,
+        "Combat": null,
+        "Survival": null,
+        "IntentionalCombat": null
+      },
+      "French": {
+        "ElevatorIdle": null,
+        "ElevatorGoingDown": null,
+        "Exploration": null,
+        "Alert": null,
+        "Sneaking": null,
+        "Encounter": null,
+        "Combat": null,
+        "Survival": null,
+        "IntentionalCombat": null
+      },
+      "Italian": {
+        "ElevatorIdle": null,
+        "ElevatorGoingDown": null,
+        "Exploration": null,
+        "Alert": null,
+        "Sneaking": null,
+        "Encounter": null,
+        "Combat": null,
+        "Survival": null,
+        "IntentionalCombat": null
+      },
+      "German": {
+        "ElevatorIdle": null,
+        "ElevatorGoingDown": null,
+        "Exploration": null,
+        "Alert": null,
+        "Sneaking": null,
+        "Encounter": null,
+        "Combat": null,
+        "Survival": null,
+        "IntentionalCombat": null
+      },
+      "Spanish": {
+        "ElevatorIdle": null,
+        "ElevatorGoingDown": null,
+        "Exploration": null,
+        "Alert": null,
+        "Sneaking": null,
+        "Encounter": null,
+        "Combat": null,
+        "Survival": null,
+        "IntentionalCombat": null
+      },
+      "Russian": {
+        "ElevatorIdle": null,
+        "ElevatorGoingDown": null,
+        "Exploration": null,
+        "Alert": null,
+        "Sneaking": null,
+        "Encounter": null,
+        "Combat": null,
+        "Survival": null,
+        "IntentionalCombat": null
+      },
+      "Portuguese_Brazil": {
+        "ElevatorIdle": null,
+        "ElevatorGoingDown": null,
+        "Exploration": null,
+        "Alert": null,
+        "Sneaking": null,
+        "Encounter": null,
+        "Combat": null,
+        "Survival": null,
+        "IntentionalCombat": null
+      },
+      "Polish": {
+        "ElevatorIdle": null,
+        "ElevatorGoingDown": null,
+        "Exploration": null,
+        "Alert": null,
+        "Sneaking": null,
+        "Encounter": null,
+        "Combat": null,
+        "Survival": null,
+        "IntentionalCombat": null
+      },
+      "Japanese": {
+        "ElevatorIdle": null,
+        "ElevatorGoingDown": null,
+        "Exploration": null,
+        "Alert": null,
+        "Sneaking": null,
+        "Encounter": null,
+        "Combat": null,
+        "Survival": null,
+        "IntentionalCombat": null
+      },
+      "Korean": {
+        "ElevatorIdle": null,
+        "ElevatorGoingDown": null,
+        "Exploration": null,
+        "Alert": null,
+        "Sneaking": null,
+        "Encounter": null,
+        "Combat": null,
+        "Survival": null,
+        "IntentionalCombat": null
+      },
+      "Chinese": {
+        "ElevatorIdle": null,
+        "ElevatorGoingDown": null,
+        "Exploration": null,
+        "Alert": null,
+        "Sneaking": null,
+        "Encounter": null,
+        "Combat": null,
+        "Survival": null,
+        "IntentionalCombat": null
+      }
+    }
+  },
   "ExtraTexts": []
 }
