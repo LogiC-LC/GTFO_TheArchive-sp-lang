@@ -1,0 +1,62 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Presence.RichPresenceCore.Name": {
+      "FSDisplayName": {
+        "English": "Rich Presence Core",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "丰姿核心"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Presence.RichPresenceCore.Description": {
+      "FSDisplayName": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      },
+      "FSDescription": {
+        "English": "Updates the Presence Game State and provides some values via patches.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "更新游戏状态，并通过补丁提供一些值。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}
