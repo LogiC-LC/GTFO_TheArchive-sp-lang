@@ -53,7 +53,7 @@
         "Polish": null,
         "Japanese": null,
         "Korean": null,
-        "Chinese": "允许你打开玩家的steam配置文件，点击他们的名字，以及踢和禁止玩家作为主机。"
+        "Chinese": "允许你打开玩家的steam配置文件，点击他们的名字，以及踢提出和封禁玩家（作为主机）。"
       }
     },
     "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings.NamesOnMapOpenSteamProfile": {
@@ -109,7 +109,7 @@
         "Polish": null,
         "Japanese": null,
         "Korean": null,
-        "Chinese": "是在Steam覆盖（shift+b）还是在默认操作系统浏览器中打开资料链接。"
+        "Chinese": "是在Steam覆盖（shift+tab）还是在默认操作系统浏览器中打开资料链接。"
       }
     },
     "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings.LobbyColors": {
@@ -457,6 +457,87 @@
         "Japanese": null,
         "Korean": null,
         "Chinese": null
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {
+    "TheArchive.Features.Security.PlayerLobbyManagement+PlayerRelationShip": {
+      "English": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "French": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Italian": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "German": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Spanish": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Russian": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Portuguese_Brazil": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Polish": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Japanese": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Korean": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Chinese": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
       }
     }
   },
