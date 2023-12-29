@@ -1,0 +1,109 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Hud.CombatIndicator.Name": {
+      "FSDisplayName": {
+        "English": "Combat Indicator",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "战斗指示器"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Hud.CombatIndicator.Description": {
+      "FSDisplayName": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      },
+      "FSDescription": {
+        "English": "Displays the current drama state of the game.\n(Above the health bar, right side)\n\nBasically a visual representation of what the music is doing.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "显示当前游戏的剧情状态。(生命值上方，右侧)基本上是音乐在播放的视觉表示。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {
+    "TheArchive.Features.Hud.CombatIndicator+CombatIndicatorSettings+CombatIndicatorStyle": {
+      "English": {
+        "Simple": "Simple",
+        "Detailed": "Detailed"
+      },
+      "French": {
+        "Simple": null,
+        "Detailed": null
+      },
+      "Italian": {
+        "Simple": null,
+        "Detailed": null
+      },
+      "German": {
+        "Simple": null,
+        "Detailed": null
+      },
+      "Spanish": {
+        "Simple": null,
+        "Detailed": null
+      },
+      "Russian": {
+        "Simple": null,
+        "Detailed": null
+      },
+      "Portuguese_Brazil": {
+        "Simple": null,
+        "Detailed": null
+      },
+      "Polish": {
+        "Simple": null,
+        "Detailed": null
+      },
+      "Japanese": {
+        "Simple": null,
+        "Detailed": null
+      },
+      "Korean": {
+        "Simple": null,
+        "Detailed": null
+      },
+      "Chinese": {
+        "Simple": "简洁",
+        "Detailed": "详细"
+      }
+    }
+  },
+  "ExtraTexts": []
+}
