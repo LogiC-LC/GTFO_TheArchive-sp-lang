@@ -1,0 +1,62 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Audio.DisableSpitterAudio.Name": {
+      "FSDisplayName": {
+        "English": "Disable Spitter Audio",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "禁用喷吐者音频"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Audio.DisableSpitterAudio.Description": {
+      "FSDisplayName": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      },
+      "FSDescription": {
+        "English": "Completely Removes all Audio from spitters.\n\n<color=orange>Keep in mind that you won't get any auditory warnings before it's too late</color>",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "完全移除喷吐者的所有音频。\n\n<color=orange>请注意，在为时已晚之前，您将听不到任何警告声音。</color>"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}
