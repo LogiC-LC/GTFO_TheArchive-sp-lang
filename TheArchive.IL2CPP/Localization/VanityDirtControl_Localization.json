@@ -1,0 +1,90 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Cosmetic.VanityDirtControl.Name": {
+      "FSDisplayName": {
+        "English": "Vanity Dirt Control",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "服饰脏污控制"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Cosmetic.VanityDirtControl.Description": {
+      "FSDisplayName": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      },
+      "FSDescription": {
+        "English": "Set all vanity items (clothes) dirt amount.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "设置所有服饰（衣物）的脏污程度。"
+      }
+    },
+    "TheArchive.Features.Cosmetic.VanityDirtControl+VanityDirtControlSettings.DirtAmount": {
+      "FSDisplayName": {
+        "English": "Dirt Amount",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "脏污程度"
+      },
+      "FSDescription": {
+        "English": "The amount of dirt on the player characters clothes.\n<b>0 to 1 range.</b>\n\n0 = clean\n1 = covered",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "玩家角色服装上的脏污程度。\n<b>0 到 1 的范围。</b>\n\n0 = 清洁\n1 = 被覆盖"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}
