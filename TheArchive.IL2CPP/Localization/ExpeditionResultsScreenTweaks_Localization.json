@@ -1,0 +1,202 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Hud.ExpeditionResultsScreenTweaks.Name": {
+      "FSDisplayName": {
+        "English": "Results Screen Tweaks",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "结算画面调整"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Hud.ExpeditionResultsScreenTweaks.Description": {
+      "FSDisplayName": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      },
+      "FSDescription": {
+        "English": "Tweak the Expedition Fail/Success screens!",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "调整远征失败/成功画面显示!"
+      }
+    },
+    "TheArchive.Features.Hud.ExpeditionResultsScreenTweaks+ExpeditionResultsScreenTweaksSettings.ShowTimerOnFailScreen": {
+      "FSDisplayName": {
+        "English": "Add Failed Expedition Timer",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "添加失败远征计时器"
+      },
+      "FSDescription": {
+        "English": "Adds an expedition timer to the fail screen that displayes total time spent in the level.\n\n<color=orange>(Requires Enhanced Expedition Timer to be enabled!)</color>",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "在失败界面添加远征计时器，显示在关卡中总共花费的时间。\n\n<color=orange>（需要启用增强远征计时器！）</color>"
+      }
+    },
+    "TheArchive.Features.Hud.ExpeditionResultsScreenTweaks+ExpeditionResultsScreenTweaksSettings.OverrideEnhancedTimerOnSuccessScreen": {
+      "FSDisplayName": {
+        "English": "Success Expedition Timer",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "成功远征计时器"
+      },
+      "FSDescription": {
+        "English": "Replaces the default timer with the enhanced version.\n(Adds a timer to R1-R3)\n\n<color=orange>(Requires Enhanced Expedition Timer to be enabled!)</color>",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "用增强版本替换默认计时器。\n（在 R1-R3 中添加计时器）\n\n<color=orange>（需要启用增强远征计时器！）</color>"
+      }
+    },
+    "TheArchive.Features.Hud.ExpeditionResultsScreenTweaks+ExpeditionResultsScreenTweaksSettings.ShowSessionSeed": {
+      "FSDisplayName": {
+        "English": "Show Level Seed",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "显示关卡种子"
+      },
+      "FSDescription": {
+        "English": "Adds the 'session seed' to the fail and success screens.\n\n(This is the seed used for boxes, enemy count and alarm scan locations.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "在失败和成功界面添加“会话种子”。\n\n（这是用于箱子、敌人数量和警报扫描位置的种子。"
+      }
+    },
+    "TheArchive.Features.Hud.ExpeditionResultsScreenTweaks+ExpeditionResultsScreenTweaksSettings.DisableSuccessMask": {
+      "FSDisplayName": {
+        "English": "Disable Success Background",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "禁用成功背景"
+      },
+      "FSDescription": {
+        "English": "Removes the background image on the <b>Expedition Success Screen</b>.\n(background turns black instead)",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "移除<b>远征成功界面</b>的背景图像。\n（背景变为黑色）"
+      }
+    },
+    "TheArchive.Features.Hud.ExpeditionResultsScreenTweaks+ExpeditionResultsScreenTweaksSettings.DisableFailSkull": {
+      "FSDisplayName": {
+        "English": "Disable Fail Background",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "禁用失败背景"
+      },
+      "FSDescription": {
+        "English": "Removes the background image on the <b>Expedition Fail Screen</b>.\n(background turns black instead)",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "移除<b>远征失败界面</b>的背景图像。\n（背景变为黑色）"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}
