@@ -1,20 +1,30 @@
-﻿using BepInEx;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using TheArchive.Loader;
+using TheArchive.Interfaces;
 
 namespace TheArchive.Core.Localization
 {
     internal class LocalizationCoreService
     {
+        private static IArchiveLogger _logger;
+        private static IArchiveLogger Logger => _logger ??= Loader.LoaderWrapper.CreateLoggerInstance(nameof(LocalizationCoreService), ConsoleColor.Yellow);
+
         public static void SetCurrentLanguage(Language language)
         {
             CurrentLanguage = language;
 
             foreach (var service in m_localizationServices)
             {
-                service.SetCurrentLanguage(CurrentLanguage);
+                try
+                {
+                    service.SetCurrentLanguage(CurrentLanguage);
+                }
+                catch (Exception ex)
+                {
+                    Logger.Error($"Exception has been thrown in Feature {service.Feature.Name}-->SetCurrentLanguage. {ex}: {ex.Message}");
+                    Logger.Exception(ex);
+                }
             }
 
             UpdateAllTexts();
@@ -38,19 +48,7 @@ namespace TheArchive.Core.Localization
             m_textSetters.Add(textSetter, textId);
         }
 
-        public static void AddTextSetterDynamic(ILocalizedTextSetter textSetter, uint textId)
-        {
-            textSetter.SetText(Get(textId));
-            m_textSetters.Add(textSetter, textId);
-        }
-
         public static void SetTextSetter(ILocalizedTextSetter textSetter, uint textId)
-        {
-            textSetter.SetText(Get(textId));
-            m_textSetters[textSetter] = textId;
-        }
-
-        public static void SetTextSetterDynamic(ILocalizedTextSetter textSetter, uint textId)
         {
             textSetter.SetText(Get(textId));
             m_textSetters[textSetter] = textId;
@@ -64,7 +62,7 @@ namespace TheArchive.Core.Localization
 
         public static string Get(uint id, string defaultValue = "UNKNOWN ID: {0}")
         {
-            if (!m_texts.TryGetValue(id, out var language) || !language.TryGetValue(CurrentLanguage, out var text) || text.IsNullOrWhiteSpace() || string.IsNullOrEmpty(text))
+            if (!m_texts.TryGetValue(id, out var language) || !language.TryGetValue(CurrentLanguage, out var text) || string.IsNullOrWhiteSpace(text))
             {
                 if (defaultValue == "UNKNOWN ID: {0}")
                 {
@@ -80,14 +78,14 @@ namespace TheArchive.Core.Localization
             return string.Format(Get(id, defaultValue), args);
         }
 
-        internal static void RegisterLocalizationService(FeatureLocalizationService service)
+        public static void RegisterLocalizationService(FeatureLocalizationService service)
         {
             m_localizationServices.Add(service);
         }
 
         public static void Init()
         {
-            string dir = string.Concat(Path.GetDirectoryName(ArchiveMod.CORE_PATH), $"\\Localization\\{(LoaderWrapper.IsGameIL2CPP() ? "IL2CPP" : "MONO")}\\");
+            string dir = Path.Combine(Path.GetDirectoryName(ArchiveMod.CORE_PATH), $"Localization");
             if (!Directory.Exists(dir))
             {
                 Directory.CreateDirectory(dir);
@@ -98,8 +96,8 @@ namespace TheArchive.Core.Localization
                 File.WriteAllText(path, JsonConvert.SerializeObject(new(), ArchiveMod.JsonSerializerSettings));
                 return;
             }
-            var data = JsonConvert.DeserializeObject<FeatureLocalizationData>(File.ReadAllText(path), ArchiveMod.JsonSerializerSettings);
-            foreach (var item in data.ExtraTexts)
+            var data = JsonConvert.DeserializeObject<List<LocalizationTextData>>(File.ReadAllText(path), ArchiveMod.JsonSerializerSettings);
+            foreach (var item in data)
             {
                 Dictionary<Language, string> dic = new();
                 foreach (Language lang in Enum.GetValues(typeof(Language)))

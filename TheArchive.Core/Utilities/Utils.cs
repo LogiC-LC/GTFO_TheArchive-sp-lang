@@ -581,5 +581,28 @@ namespace TheArchive.Utilities
             methodInfo = null;
             return false;
         }
+
+        public static HashSet<Type> GetNestedClasses(Type type)
+        {
+            var types = new List<Type> { type };
+            foreach (var nestedType in type.GetNestedTypes())
+            {
+                if (!nestedType.IsClass)
+                    continue;
+
+                types.AddRange(GetNestedClasses(nestedType));
+            }
+            return types.ToHashSet();
+        }
+
+        public static string ComputeSHA256(this string input)
+        {
+            using (SHA256 sha256 = SHA256.Create())
+            {
+                byte[] inputBytes = Encoding.UTF8.GetBytes(input);
+                byte[] hashBytes = sha256.ComputeHash(inputBytes);
+                return BitConverter.ToString(hashBytes).Replace("-", "").ToLower();
+            }
+        }
     }
 }
