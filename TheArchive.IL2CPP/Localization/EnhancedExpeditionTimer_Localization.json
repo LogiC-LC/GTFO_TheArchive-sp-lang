@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Hud.EnhancedExpeditionTimer.Name": {
+      "FName": {
+        "English": "Enhanced Expedition Timer",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "增强远征计时器"
+      }
+    },
+    "TheArchive.Features.Hud.EnhancedExpeditionTimer.Description": {
+      "FDescription": {
+        "English": "A more accurate mission timer.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "一个更精确的任务计时器。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

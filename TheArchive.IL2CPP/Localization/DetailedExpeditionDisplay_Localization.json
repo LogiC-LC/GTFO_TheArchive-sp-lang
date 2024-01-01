@@ -1,0 +1,64 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Hud.DetailedExpeditionDisplay.Name": {
+      "FName": {
+        "English": "Detailed Expedition Display",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "详细远征展示"
+      }
+    },
+    "TheArchive.Features.Hud.DetailedExpeditionDisplay.Description": {
+      "FDescription": {
+        "English": "Adds the current Rundown Number into the Header as well as onto the Map, Objectives and Success screens.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "在页眉和地图、目标以及成功画面中添加当前 Rundown 编号。"
+      }
+    },
+    "TheArchive.Features.Hud.DetailedExpeditionDisplay+RundownInHeaderSettings.IncludeALTorOGText": {
+      "FSDisplayName": {
+        "English": "{ALTText} and {OGText} prefixes",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "{ALTText} 和 {OGText} 前缀"
+      },
+      "FSDescription": {
+        "English": "Adds {ALTText} or {OGText} before any mention of the expedition.\n\n{OGText} for the original releases\n{ALTText} for the re-releases",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "在提及远征之前添加{altttext}或{OGText}。\n\n{OGText}表示原始版本\n{ALTText}表示重新发布的版本"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

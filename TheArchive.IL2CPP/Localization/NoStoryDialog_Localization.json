@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.QoL.NoStoryDialog.Name": {
+      "FName": {
+        "English": "Remove Story Dialog",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "删除剧情对话框"
+      }
+    },
+    "TheArchive.Features.QoL.NoStoryDialog.Description": {
+      "FDescription": {
+        "English": "Removes all level-based voice events that come with subtitles.\naka Schaeffer-be-gone",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "删除所有带有字幕的基于关卡的语音事件。\n又名schaeffer - begone"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

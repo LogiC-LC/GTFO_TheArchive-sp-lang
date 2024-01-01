@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Dev.AnalyticsBlocker.Name": {
+      "FName": {
+        "English": "Block Game Analytics",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "阻止游戏分析"
+      }
+    },
+    "TheArchive.Features.Dev.AnalyticsBlocker.Description": {
+      "FDescription": {
+        "English": "Prevent analytics data from being sent.\n(Recommended to keep enabled)",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "阻止发送分析数据。\n（建议保持启用状态）"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

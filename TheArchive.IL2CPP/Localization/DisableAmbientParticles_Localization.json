@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Accessibility.DisableAmbientParticles.Name": {
+      "FName": {
+        "English": "Disable Ambient Particles",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "禁用环境粒子"
+      }
+    },
+    "TheArchive.Features.Accessibility.DisableAmbientParticles.Description": {
+      "FDescription": {
+        "English": "Disable the little floating dust particles in the air.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "禁用空气中的小漂浮粉尘颗粒。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

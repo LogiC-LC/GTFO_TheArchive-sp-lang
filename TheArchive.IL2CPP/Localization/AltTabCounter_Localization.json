@@ -1,0 +1,161 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Special.AltTabCounter.Name": {
+      "FName": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "Alt Tab计数器"
+      }
+    },
+    "TheArchive.Features.Special.AltTabCounter.Description": {
+      "FDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "统计游戏失去焦点的次数。（ALT + TAB）"
+      }
+    },
+    "TheArchive.Features.Special.AltTabCounter+AltTabCounterSettings.AltTabCounts": {
+      "FSDisplayName": {
+        "English": "ALT + TAB Counts",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "ALT + TAB 计数"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Special.AltTabCounter+AltTabCounterSettings+AltTabCounterSettingsForReal.TotalCount": {
+      "FSDisplayName": {
+        "English": "Total Count",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "总数"
+      },
+      "FSDescription": {
+        "English": "All time total of ALT + TABs",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "所有时间的ALT + TAB总计数"
+      },
+      "FSHeader": {
+        "English": "ALT + TABs <3",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "ALT + TABs <3"
+      }
+    },
+    "TheArchive.Features.Special.AltTabCounter+AltTabCounterSettings+AltTabCounterSettingsForReal.CurrentSessionCount": {
+      "FSDisplayName": {
+        "English": "This Session Count",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "本次游戏计数"
+      },
+      "FSDescription": {
+        "English": "ALT + TABs accumulated this session",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "本次游戏会话中累计的ALT + TAB数"
+      }
+    },
+    "TheArchive.Features.Special.AltTabCounter+AltTabCounterSettings+AltTabCounterSettingsForReal.CurrentWhileInLevelCount": {
+      "FSDisplayName": {
+        "English": "This Level Count",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "当前关卡计数"
+      },
+      "FSDescription": {
+        "English": "ALT + TABs accumulated this level",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "在当前关卡中累计的ALT + TAB数"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

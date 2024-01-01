@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Accessibility.DisableHudSway.Name": {
+      "FName": {
+        "English": "Disable HUD Sway",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "禁用HUD晃动"
+      }
+    },
+    "TheArchive.Features.Accessibility.DisableHudSway.Description": {
+      "FDescription": {
+        "English": "Disables the in-game HUD sway while walking / jumping around.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "在游戏中行走/跳跃时禁用HUD的晃动效果。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

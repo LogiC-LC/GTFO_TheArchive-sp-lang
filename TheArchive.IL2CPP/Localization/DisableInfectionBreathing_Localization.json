@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Accessibility.DisableInfectionBreathing.Name": {
+      "FName": {
+        "English": "Disable Breathing (<#1F835F>Infection</color>)",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "禁用呼吸（<#1F835F>感染</color>）"
+      }
+    },
+    "TheArchive.Features.Accessibility.DisableInfectionBreathing.Description": {
+      "FDescription": {
+        "English": "Disables the infection \"drinking-straw-sucking\" sounding sound.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "禁用感染时的“吸食吸管”的声音。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

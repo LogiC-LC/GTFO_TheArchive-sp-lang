@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Cosmetic.BotCustomization.Name": {
+      "FName": {
+        "English": "Bot Customization",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "机器人定制"
+      }
+    },
+    "TheArchive.Features.Cosmetic.BotCustomization.Description": {
+      "FDescription": {
+        "English": "Customize your bots - Change their name and Vanity\n\nAdds the Apparel button to bots if you're host.\n(Bot clothing only works if dropping from lobby atm!)",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "定制你的机器人 - 更改它们的名称和外观\n\n如果你是主机，将为机器人添加服装按钮。\n（目前只有在大厅中丢弃机器人服装才能生效！）"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

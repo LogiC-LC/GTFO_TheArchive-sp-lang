@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Special.MuteSpeak.Name": {
+      "FName": {
+        "English": "Mute Speak",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "禁音发言"
+      }
+    },
+    "TheArchive.Features.Special.MuteSpeak.Description": {
+      "FDescription": {
+        "English": "Binds a few voice lines to keyboard keys.\n\nArrow keys\n[P, L, K, J, H] toggleable by hitting F8; off by default\nHold [Right Control] for alternate lines",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "将一些语音线绑定到键盘按键上。\n\n方向键\n[P, L, K, J, H] 可通过按 F8 切换开关，默认为关闭状态\n按住 [右控制键] 可以使用替代语音线"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

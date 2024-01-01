@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Backport.MineFixBackport.Name": {
+      "FName": {
+        "English": "R5+ Mines",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "R5以后的雷"
+      }
+    },
+    "TheArchive.Features.Backport.MineFixBackport.Description": {
+      "FDescription": {
+        "English": "Change explosion code to work like after the R5 update.\nMines = more effective\n\n<#f00>(Might cause desync!)</color>",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "修改爆炸代码以使其类似于 R5 更新后的效果。\n绊雷 = 更有效\n\n<#f00>(可能导致不同步！)</color>"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

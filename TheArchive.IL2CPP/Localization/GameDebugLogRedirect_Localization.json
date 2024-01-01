@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Dev.GameDebugLogRedirect.Name": {
+      "FName": {
+        "English":  "Game Logs Redirect",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "游戏日志重定向"
+      }
+    },
+    "TheArchive.Features.Dev.GameDebugLogRedirect.Description": {
+      "FDescription": {
+        "English":  "Prints Unity debug logs into the <i>MelonLoader</i> console.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "将 Unity 的调试日志打印到 <i>MelonLoader</i> 控制台。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Dev.DramaManagerNoDebugLog.Name": {
+      "FName": {
+        "English": "DramaManagerNoDebugLog",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "DramaManager无调试日志"
+      }
+    },
+    "TheArchive.Features.Dev.DramaManagerNoDebugLog.Description": {
+      "FDescription": {
+        "English": "Prevent DramaManager debug log spam on R1 to R3.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "防止在 R1 到 R3 版本中 DramaManager 产生过多的调试日志。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

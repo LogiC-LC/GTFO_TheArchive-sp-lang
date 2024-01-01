@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Backport.InstantHackRelease.Name": {
+      "FName": {
+        "English": "R5+ Like Instant Hack Release",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "R5+ 类即时黑客小游戏"
+      }
+    },
+    "TheArchive.Features.Backport.InstantHackRelease.Description": {
+      "FDescription": {
+        "English": "Change hacking minigame to be more in line with newest version of the game\nMinigame finishes and hack disappears instantly",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "改变黑客小游戏以更符合游戏的最新版本\n小游戏完成后，骇入器立即消失"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

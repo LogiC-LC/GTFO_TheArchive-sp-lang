@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Presence.DiscordRichPresence.Name": {
+      "FName": {
+        "English": "Archive Discord Rich Presence",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "存档 Discord Rich Presence"
+      }
+    },
+    "TheArchive.Features.Presence.DiscordRichPresence.Description": {
+      "FDescription": {
+        "English": "Show the current game state in detail on discord.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "在 Discord 上详细显示当前游戏状态。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

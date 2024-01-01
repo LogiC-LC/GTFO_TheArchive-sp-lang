@@ -1,0 +1,105 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Hud.LoadingIndicator.Name": {
+      "FName": {
+        "English": "Loading Indicator",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "加载指示器"
+      }
+    },
+    "TheArchive.Features.Hud.LoadingIndicator.Description": {
+      "FDescription": {
+        "English": "Displays a little indicator that shows if other players have finished loading yet.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "显示一个小指示，显示是否其他玩家已经完成加载。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {
+    "TheArchive.Features.Hud.LoadingIndicator+LoadMarkerState": {
+      "English": {
+        "Cutscene": "Cutscene",
+        "Loading": "Loading",
+        "Ready": "Ready",
+        "Hide": "Hide"
+      },
+      "French": {
+        "Cutscene": null,
+        "Loading": null,
+        "Ready": null,
+        "Hide": null
+      },
+      "Italian": {
+        "Cutscene": null,
+        "Loading": null,
+        "Ready": null,
+        "Hide": null
+      },
+      "German": {
+        "Cutscene": null,
+        "Loading": null,
+        "Ready": null,
+        "Hide": null
+      },
+      "Spanish": {
+        "Cutscene": null,
+        "Loading": null,
+        "Ready": null,
+        "Hide": null
+      },
+      "Russian": {
+        "Cutscene": null,
+        "Loading": null,
+        "Ready": null,
+        "Hide": null
+      },
+      "Portuguese_Brazil": {
+        "Cutscene": null,
+        "Loading": null,
+        "Ready": null,
+        "Hide": null
+      },
+      "Polish": {
+        "Cutscene": null,
+        "Loading": null,
+        "Ready": null,
+        "Hide": null
+      },
+      "Japanese": {
+        "Cutscene": null,
+        "Loading": null,
+        "Ready": null,
+        "Hide": null
+      },
+      "Korean": {
+        "Cutscene": null,
+        "Loading": null,
+        "Ready": null,
+        "Hide": null
+      },
+      "Chinese": {
+        "Cutscene": "过场动画",
+        "Loading": "加载中",
+        "Ready": "就绪",
+        "Hide": "隐藏"
+      }
+    }
+  },
+  "ExtraTexts": []
+}

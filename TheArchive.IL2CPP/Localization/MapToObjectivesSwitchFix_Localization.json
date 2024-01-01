@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Fixes.MapToObjectivesSwitchFix.Name": {
+      "FName": {
+        "English": "Map Chat Abduction Fix",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "地图聊天绑架修复"
+      }
+    },
+    "TheArchive.Features.Fixes.MapToObjectivesSwitchFix.Description": {
+      "FDescription": {
+        "English": "Prevent a switch to the Objectives Screen whenever the chat is open and the 'o' key is pressed.\n\n(Thanks for fixing this in A6 Alex! <3)",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "防止在聊天窗口打开时按下 'o' 键切换到目标界面。\n\n（感谢 A6 Alex 修复此问题<3）"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

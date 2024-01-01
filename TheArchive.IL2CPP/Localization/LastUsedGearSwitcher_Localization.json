@@ -1,0 +1,92 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.QoL.LastUsedGearSwitcher.Name": {
+      "FName": {
+        "English": "Last Used Gear Switcher",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "选择上次使用的装备"
+      }
+    },
+    "TheArchive.Features.QoL.LastUsedGearSwitcher.Description": {
+      "FDescription": {
+        "English": "Allows you to swap between the last two used weapons via a keypress",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "允许你通过按键切换最后两个使用过的武器"
+      }
+    },
+    "TheArchive.Features.QoL.LastUsedGearSwitcher+LastUsedGearSwitcherSettings.QuickSwitchKey": {
+      "FSDisplayName": {
+        "English": "Quick Swap Key",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "快速切换键"
+      },
+      "FSDescription": {
+        "English": "Press this key to switch to the previously wielded gear.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "按下此键切换到先前使用的装备。"
+      }
+    },
+    "TheArchive.Features.QoL.LastUsedGearSwitcher+LastUsedGearSwitcherSettings.DebugLog": {
+      "FSDisplayName": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      },
+      "FSDescription": {
+        "English": "Prints debug info to the console",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "将调试信息打印到控制台"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Accessibility.DisableDeathDrone.Name": {
+      "FName": {
+        "English": "Disable Downed Sound",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "禁用倒地音效"
+      }
+    },
+    "TheArchive.Features.Accessibility.DisableDeathDrone.Description": {
+      "FDescription": {
+        "English": "Removes the droning sound that playes whenever you're downed.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "移除角色倒地时播放的嗡嗡声。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

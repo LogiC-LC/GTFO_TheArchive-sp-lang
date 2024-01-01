@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Backport.AlarmClassOnDoors.Name": {
+      "FName": {
+        "English": "Alarm Class on Security Doors",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "安全门警报等级"
+      }
+    },
+    "TheArchive.Features.Backport.AlarmClassOnDoors.Description": {
+      "FDescription": {
+        "English": "Add alarm classes to security door interaction texts",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "在安全门交互文本中添加警报等级"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

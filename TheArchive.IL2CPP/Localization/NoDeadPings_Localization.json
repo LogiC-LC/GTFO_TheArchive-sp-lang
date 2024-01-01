@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Fixes.NoDeadPings.Name": {
+      "FName": {
+        "English": "No Dead Pings",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "没有死亡标记"
+      }
+    },
+    "TheArchive.Features.Fixes.NoDeadPings.Description": {
+      "FDescription": {
+        "English": "Prevents bio pings (<#F00><u>/\\</u></color>) on dead enemies.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "防止扫描出(<#F00><u>/\\</u></color>)已死亡的敌人"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}
