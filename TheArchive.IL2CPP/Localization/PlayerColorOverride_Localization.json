@@ -1,0 +1,394 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Accessibility.PlayerColorOverride.Name": {
+      "FName": {
+        "English": "Player Color Override",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "玩家颜色覆盖"
+      }
+    },
+    "TheArchive.Features.Accessibility.PlayerColorOverride.Description": {
+      "FDescription": {
+        "English": "Override the built in player colors.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "覆盖内置玩家颜色。"
+      }
+    },
+    "TheArchive.Features.Accessibility.PlayerColorOverride+PlayerColorOverrideSettings.LocalPlayer": {
+      "FSDisplayName": {
+        "English": "Your Color",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "你的颜色"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Accessibility.PlayerColorOverride+PlayerColorOverrideSettings.OtherPlayers": {
+      "FSDisplayName": {
+        "English": "Other Players' Color",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "其他玩家的颜色"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Accessibility.PlayerColorOverride+PlayerColorOverrideSettings.P1_Woods": {
+      "FSDisplayName": {
+        "English": "Color for <#C21F4E>Woods</color> (P1)",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "<#C21F4E>Woods</color> 的颜色 (P1)"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      },
+      "FSHeader": {
+        "English": "Character Colors",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "角色颜色"
+      }
+    },
+    "TheArchive.Features.Accessibility.PlayerColorOverride+PlayerColorOverrideSettings.P2_Dauda": {
+      "FSDisplayName": {
+        "English": "Color for <#18935E>Dauda</color> (P2)",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "<#18935E>Dauda</color> 的颜色 (P2)"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Accessibility.PlayerColorOverride+PlayerColorOverrideSettings.P3_Hackett": {
+      "FSDisplayName": {
+        "English": "Color for <#20558C>Hackett</color> (P3)",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "<#20558C>Hackett</color> 的颜色 (P3)"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Accessibility.PlayerColorOverride+PlayerColorOverrideSettings.P4_Bishop": {
+      "FSDisplayName": {
+        "English": "Color for <#7A1A8E>Bishop</color> (P4)",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "<#7A1A8E>Bishop</color> 的颜色 (P4)"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Accessibility.PlayerColorOverride+PlayerColorOverrideSettings.LocalUseNicknameColorAsPlayerColor": {
+      "FSDisplayName": {
+        "English": "Local Nickname Color",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "本地昵称颜色"
+      },
+      "FSDescription": {
+        "English": "Use the Nickname Features color as your own player color.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "使用昵称功能的颜色作为您自己的玩家颜色"
+      },
+      "FSHeader": {
+        "English": "Misc",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "其他"
+      }
+    },
+    "TheArchive.Features.Accessibility.PlayerColorOverride+PlayerColorOverrideSettings.RemoteUseNicknameColorAsPlayerColor": {
+      "FSDisplayName": {
+        "English": "Remote Nickname Color",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "远程昵称颜色"
+      },
+      "FSDescription": {
+        "English": "Use a remote players custom (colored) nickname as the players color.\n\n<color=orange>Warning! This overrides the above settings if the remote player has a colored nickname!</color>",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "使用远程玩家的自定义（有颜色的）昵称作为玩家的颜色。\n\n<color=orange>警告！这会覆盖上述设置，如果远程玩家有彩色昵称！</color>"
+      }
+    },
+    "TheArchive.Features.Accessibility.PlayerColorOverride+PlayerColorOverrideSettings.OnlyColorIfWholeNameIsColored": {
+      "FSDisplayName": {
+        "English": "Only fully colored names",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "仅完全彩色名称"
+      },
+      "FSDescription": {
+        "English": "Only pick the nickname color if the whole name is colored.\n\nExample:\n<#404>Nickname</color> -> <#0c0>use as player color</color>\n<#404>Nick</color>name -> <#c00>don't use as player color</color>",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "只有整个名称都有颜色时才选择昵称颜色。\n\n示例：\n<#404>昵称</color> -> <#0c0>作为玩家颜色</color>\n<#404>尼</color>克名 -> <#c00>不作为玩家颜色</color>"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {
+    "TheArchive.Features.Accessibility.PlayerColorOverride+PlayerColorOverrideSettings+ColorizationMode": {
+      "English": {
+        "NicknameOnly": "NicknameOnly",
+        "LocalOnly": "LocalOnly",
+        "Character": "Character",
+        "CharacterAndLocal": "CharacterAndLocal",
+        "OtherAndLocal": "OtherAndLocal"
+      },
+      "French": {
+        "NicknameOnly": null,
+        "LocalOnly": null,
+        "Character": null,
+        "CharacterAndLocal": null,
+        "OtherAndLocal": null
+      },
+      "Italian": {
+        "NicknameOnly": null,
+        "LocalOnly": null,
+        "Character": null,
+        "CharacterAndLocal": null,
+        "OtherAndLocal": null
+      },
+      "German": {
+        "NicknameOnly": null,
+        "LocalOnly": null,
+        "Character": null,
+        "CharacterAndLocal": null,
+        "OtherAndLocal": null
+      },
+      "Spanish": {
+        "NicknameOnly": null,
+        "LocalOnly": null,
+        "Character": null,
+        "CharacterAndLocal": null,
+        "OtherAndLocal": null
+      },
+      "Russian": {
+        "NicknameOnly": null,
+        "LocalOnly": null,
+        "Character": null,
+        "CharacterAndLocal": null,
+        "OtherAndLocal": null
+      },
+      "Portuguese_Brazil": {
+        "NicknameOnly": null,
+        "LocalOnly": null,
+        "Character": null,
+        "CharacterAndLocal": null,
+        "OtherAndLocal": null
+      },
+      "Polish": {
+        "NicknameOnly": null,
+        "LocalOnly": null,
+        "Character": null,
+        "CharacterAndLocal": null,
+        "OtherAndLocal": null
+      },
+      "Japanese": {
+        "NicknameOnly": null,
+        "LocalOnly": null,
+        "Character": null,
+        "CharacterAndLocal": null,
+        "OtherAndLocal": null
+      },
+      "Korean": {
+        "NicknameOnly": null,
+        "LocalOnly": null,
+        "Character": null,
+        "CharacterAndLocal": null,
+        "OtherAndLocal": null
+      },
+      "Chinese": {
+        "NicknameOnly": "仅昵称",
+        "LocalOnly": "本地",
+        "Character": "角色",
+        "CharacterAndLocal": "角色和本地",
+        "OtherAndLocal": "其他和本地"
+      }
+    }
+  },
+  "ExtraTexts": []
+}

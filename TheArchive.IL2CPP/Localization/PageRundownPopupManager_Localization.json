@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Dev.PageRundownPopupManager.Name": {
+      "FName": {
+        "English": "PopupQueue",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "弹出窗口队列"
+      }
+    },
+    "TheArchive.Features.Dev.PageRundownPopupManager.Description": {
+      "FDescription": {
+        "English": "Popups, yay!",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "弹出窗口，耶！"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

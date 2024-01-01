@@ -1,0 +1,94 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Presence.ReactorDiscordRPC.Name": {
+      "FName": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Core.FeaturesAPI.Feature.Description": {
+      "FDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {
+    "TheArchive.Features.Presence.ReactorDiscordRPC+ReactorTypes": {
+      "English": {
+        "Error": "Error",
+        "Startup": "Startup",
+        "Shutdown": "Shutdown"
+      },
+      "French": {
+        "Error": null,
+        "Startup": null,
+        "Shutdown": null
+      },
+      "Italian": {
+        "Error": null,
+        "Startup": null,
+        "Shutdown": null
+      },
+      "German": {
+        "Error": null,
+        "Startup": null,
+        "Shutdown": null
+      },
+      "Spanish": {
+        "Error": null,
+        "Startup": null,
+        "Shutdown": null
+      },
+      "Russian": {
+        "Error": null,
+        "Startup": null,
+        "Shutdown": null
+      },
+      "Portuguese_Brazil": {
+        "Error": null,
+        "Startup": null,
+        "Shutdown": null
+      },
+      "Polish": {
+        "Error": null,
+        "Startup": null,
+        "Shutdown": null
+      },
+      "Japanese": {
+        "Error": null,
+        "Startup": null,
+        "Shutdown": null
+      },
+      "Korean": {
+        "Error": null,
+        "Startup": null,
+        "Shutdown": null
+      },
+      "Chinese": {
+        "Error": "错误",
+        "Startup": "启动",
+        "Shutdown": "关闭"
+      }
+    }
+  },
+  "ExtraTexts": []
+}

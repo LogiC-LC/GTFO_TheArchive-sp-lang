@@ -1,0 +1,519 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Security.PlayerLobbyManagement.Name": {
+      "FName": {
+        "English": "Player Lobby Management",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "玩家房间管理器"
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement.Description": {
+      "FDescription": {
+        "English": "Allows you to open a players steam profile by clicking on their name as well as kick and ban players as host.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "允许你打开玩家的steam配置文件，点击他们的名字，以及踢提出和封禁玩家（作为主机）。"
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings.NamesOnMapOpenSteamProfile": {
+      "FSDisplayName": {
+        "English": "Names on Map open Steam Profile",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "在地图上通过名称打开Steam资料"
+      },
+      "FSDescription": {
+        "English": "If clicking a players name on the map screen should open their Steam Profile in your default browser.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "在地图画面点击玩家的名称是否会在默认浏览器中打开其Steam资料。"
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings.PreferOpeningProfileLinksInSteamOverlay": {
+      "FSDisplayName": {
+        "English": "Open Profiles in Steam Overlay",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "在Steam覆盖中打开资料"
+      },
+      "FSDescription": {
+        "English": "Wheter to open profile links in the overlay or in the default OS browser.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "是在Steam覆盖（shift+tab）还是在默认操作系统浏览器中打开资料链接。"
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings.LobbyColors": {
+      "FSDisplayName": {
+        "English": "Lobby Color Settings",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "大厅颜色设置"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      },
+      "FSHeader": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings.RecentlyPlayedWith": {
+      "FSDisplayName": {
+        "English": "Recently Played With",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "最近一起玩过的玩家"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      },
+      "FSHeader": {
+        "English": "Other",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "其他"
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings.BanList": {
+      "FSDisplayName": {
+        "English": "Banned Players",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "被ban的玩家"
+      },
+      "FSDescription": {
+        "English": "Players who are on this list will not be able to join any games <b>you host</b>.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "这个列表中的玩家将无法加入<b>你主持的</b>任何游戏。"
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings+LobbyColorSettings.ColorizeLobbyBullet": {
+      "FSDisplayName": {
+        "English": "Color the Square",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "为方块着色"
+      },
+      "FSDescription": {
+        "English": "Use the colors/settings below to color the square on the loadout screen next to the player names.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "在玩家加载界面旁边使用以下颜色/设置来着色方块。"
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings+LobbyColorSettings.UseNicknameColorForSelf": {
+      "FSDisplayName": {
+        "English": "Use Nickname Color for Self",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "使用自己的昵称颜色"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings+LobbyColorSettings.RainbowPukeSelf": {
+      "FSDisplayName": {
+        "English": "Random Colors for Self",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "自己的随机颜色"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings+LobbyColorSettings.RainbowPukeFriends": {
+      "FSDisplayName": {
+        "English": "Random Colors for Others",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "其他人的随机颜色"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings+LobbyColorSettings.Default": {
+      "FSDisplayName": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      },
+      "FSHeader": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings+BanListEntry.Timestamp": {
+      "FSDisplayName": {
+        "English": "Banned on:",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "封禁:"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings+RecentlyPlayedWithEntry.TimestampFirst": {
+      "FSDisplayName": {
+        "English": "First time played with:",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "第一次共同游玩:"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.Security.PlayerLobbyManagement+LobbyManagementSettings+RecentlyPlayedWithEntry.TimestampLast": {
+      "FSDisplayName": {
+        "English": "Last time played with:",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "最后一次共同游玩："
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {
+    "TheArchive.Features.Security.PlayerLobbyManagement+PlayerRelationShip": {
+      "English": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "French": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Italian": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "German": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Spanish": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Russian": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Portuguese_Brazil": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Polish": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Japanese": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Korean": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      },
+      "Chinese": {
+        "None": null,
+        "Self": null,
+        "Friend": null,
+        "Banned": null,
+        "Bot": null
+      }
+    }
+  },
+  "ExtraTexts": []
+}

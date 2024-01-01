@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Fixes.PouncerFXFix.Name": {
+      "FName": {
+        "English": "Pouncer ScreenFX Stuck Fix",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "狗触手屏幕特效bug修复"
+      }
+    },
+    "TheArchive.Features.Fixes.PouncerFXFix.Description": {
+      "FDescription": {
+        "English": "(WIP) Prevents the pouncer tentacles from getting stuck on screen.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "(WIP)防止突袭者（狗）的触手卡在屏幕上。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

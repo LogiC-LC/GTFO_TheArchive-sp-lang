@@ -1,0 +1,92 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Presence.SteamRichPresenceTweaks.Name": {
+      "FName": {
+        "English": "Steam Rich Presence Tweaks",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "Steam的状态栏调整"
+      }
+    },
+    "TheArchive.Features.Presence.SteamRichPresenceTweaks.Description": {
+      "FDescription": {
+        "English": "Set a custom text for Steams' presence system.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "为steam的状态栏设置自定义文本。"
+      }
+    },
+    "TheArchive.Features.Presence.SteamRichPresenceTweaks+SteamRPCSettings.DisableSteamRPC": {
+      "FSDisplayName": {
+        "English": "Disable <color=orange>ALL</color> of Steam RPC",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "禁用<color=orange>所有</color> Steam RPC"
+      },
+      "FSDescription": {
+        "English": "Enabling this will completely disable relaying your current in-game status as well as <b>prevent anyone from joining on you via steam</b>.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "启用此选项将完全禁用转发您当前的游戏状态，以及<b>阻止任何人通过Steam加入您的游戏</b>。"
+      }
+    },
+    "TheArchive.Features.Presence.SteamRichPresenceTweaks+SteamRPCSettings.CustomSteamRPCFormat": {
+      "FSDisplayName": {
+        "English": "Custom Status Format",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "自定义状态格式"
+      },
+      "FSDescription": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

@@ -1,0 +1,146 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.QoL.ReloadSoundCue.Name": {
+      "FName": {
+        "English": "Reload Sound Cue",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "重新加载声音提示"
+      }
+    },
+    "TheArchive.Features.QoL.ReloadSoundCue.Description": {
+      "FDescription": {
+        "English": "Play a sound cue on reload the moment the bullets have entered your gun.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "播放一个声音提示换弹时刻子弹进入了你的枪。"
+      }
+    },
+    "TheArchive.Features.QoL.ReloadSoundCue+ReloadSoundCueSettings.TestSoundButton": {
+      "FSDisplayName": {
+        "English": "Test Sound Event",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "测试音效事件"
+      },
+      "FSDescription": {
+        "English": "Plays the sound event below,\nit's a little janky and might not work depending on the sound, sorry!",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "播放下面的音效事件，可能有点不稳定，取决于音效，抱歉！"
+      },
+      "FSButtonText": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    },
+    "TheArchive.Features.QoL.ReloadSoundCue+ReloadSoundCueSettings.SoundEvent": {
+      "FSDisplayName": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      },
+      "FSDescription": {
+        "English": "The sound event to play whenever the reaload has happend.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "重新加载发生时要播放的音效事件。"
+      }
+    },
+    "TheArchive.Features.QoL.ReloadSoundCue+ReloadSoundCueSettings.PrintSoundEventsButton": {
+      "FSDisplayName": {
+        "English": "Print Sound Events To Console",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "打印声音事件到控制台"
+      },
+      "FSDescription": {
+        "English": "Prints all available sound events to the <b><#F00>console</color></b>.\n<color=orange>Warning! This might freeze your game for a few seconds!</color>\n\nSome events might not work because their playback conditions are not met!",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "将所有可用音效事件打印到<b><#F00>控制台</color></b>。\n<color=orange>警告！这可能会导致游戏停顿几秒钟！</color>\n\n某些事件可能无法正常工作，因为它们的播放条件未满足！"
+      },
+      "FSButtonText": {
+        "English": null,
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": null
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

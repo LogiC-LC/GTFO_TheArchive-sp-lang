@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Presence.RichPresenceCore.Name": {
+      "FName": {
+        "English": "Rich Presence Core",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "丰富展示核心"
+      }
+    },
+    "TheArchive.Features.Presence.RichPresenceCore.Description": {
+      "FDescription": {
+        "English": "Updates the Presence Game State and provides some values via patches.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "更新展示游戏状态并通过补丁提供一些数值。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

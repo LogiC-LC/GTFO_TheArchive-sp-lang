@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Backport.ThrowablesRunFix.Name": {
+      "FName": {
+        "English": "Throwables Run / Fall Fix",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "投掷物奔跑 / 下落修复"
+      }
+    },
+    "TheArchive.Features.Backport.ThrowablesRunFix.Description": {
+      "FDescription": {
+        "English": "Prevents you from accidentally throwing your C-Foam nade / Glowsticks whenever you start running / jumping",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "防止您在开始奔跑 / 跳跃时意外投掷 C-Foam 雷 / 萤光棒。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}

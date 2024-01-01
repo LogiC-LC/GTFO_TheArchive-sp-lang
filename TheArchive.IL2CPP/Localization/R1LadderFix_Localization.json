@@ -1,0 +1,36 @@
+{
+  "FeatureSettingsTexts": {
+    "TheArchive.Features.Backport.R1LadderFix.Name": {
+      "FName": {
+        "English": "R2+ Like Ladders",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "类 R2+ 梯子"
+      }
+    },
+    "TheArchive.Features.Backport.R1LadderFix.Description": {
+      "FDescription": {
+        "English": "Fix ladder movement so that W is always upwards and S always downwards, no matter where you're looking.",
+        "French": null,
+        "Italian": null,
+        "German": null,
+        "Spanish": null,
+        "Russian": null,
+        "Portuguese_Brazil": null,
+        "Polish": null,
+        "Japanese": null,
+        "Korean": null,
+        "Chinese": "修复梯子移动，无论你朝向哪里，按 W 始终向上，按 S 始终向下。"
+      }
+    }
+  },
+  "FeatureSettingsEnumTexts": {},
+  "ExtraTexts": []
+}
