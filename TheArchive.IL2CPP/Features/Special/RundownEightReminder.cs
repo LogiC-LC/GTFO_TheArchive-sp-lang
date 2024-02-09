@@ -17,7 +17,7 @@ namespace TheArchive.Features.Special
     {
         public override string Name => "Rundown 8 Reminder";
 
-        public override string Group => FeatureGroups.Special;
+        public override FeatureGroup Group => FeatureGroups.Special;
 
         public override string Description => "Reminds you to turn off \"Remove Story Dialog\" for whenever Rundown 8 drops!";
 
@@ -96,8 +96,9 @@ namespace TheArchive.Features.Special
                 BlinkTimeInterval = 0.2f,
                 Header = "<#F00>Rundown 8 Reminder</color>",
                 UpperText = updateText,
+                LowerText = string.Empty,
                 PopupType = PopupType.BoosterImplantMissed,
-                OnCloseCallback = new System.Action(() => { })
+                OnCloseCallback = PageRundownPopupManager.EmptyAction,
             });
         }
     }

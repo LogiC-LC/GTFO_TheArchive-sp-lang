@@ -1,10 +1,14 @@
-﻿namespace TheArchive.Core.Localization
+﻿using System;
+
+namespace TheArchive.Core.Localization
 {
     public interface ILocalizationService
     {
         Language CurrentLanguage { get; }
 
         string Get(uint id);
+
+        string Get<T>(T value) where T : Enum;
 
         string Format(uint id, params object[] args);
 
@@ -13,20 +17,5 @@
         void SetTextSetter(ILocalizedTextSetter textSetter, uint textId);
 
         void AddTextUpdater(ILocalizedTextUpdater textUpdater);
-    }
-
-    public enum Language
-    {
-        English,
-        French,
-        Italian,
-        German,
-        Spanish,
-        Russian,
-        Portuguese_Brazil,
-        Polish,
-        Japanese,
-        Korean,
-        Chinese
     }
 }
